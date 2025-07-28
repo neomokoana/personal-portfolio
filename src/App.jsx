@@ -104,7 +104,7 @@ const HomeSection = () => {
         {/* Placeholder for Profile Image */}
         <div className="flex-shrink-0 mb-6 md:mb-0">
           <img
-            src="src/Image icon.jpeg"
+            src="/Image icon.jpeg"
             alt="Your Profile"
             className="rounded-full w-48 h-48 object-cover border-4 border-blue-500 shadow-lg"
           />
@@ -148,7 +148,7 @@ const ProjectsSection = () => {
       technologies: ["Python", "TensorFlow", "Pandas", "Scikit-learn", "Streamlit", "Google Gemini API"],
       demoLink: "https://financial-sentiment-dashboard-nnn5itht9qjfwfwnxp7xqz.streamlit.app/", // Placeholder link
       githubLink: "https://github.com/neomokoana/Financial-Sentiment-Dashboard", // Placeholder link
-      image: "src/image 1.jpg" // Placeholder image
+      image: "/image 1.jpg" // Placeholder image
     },
     {
       id: 2,
@@ -157,7 +157,7 @@ const ProjectsSection = () => {
       technologies: ["Python", "PyTorch", "HTML", "JavaScript", "Flask", "Dockscikit-learn"],
       demoLink: "https://example.com/demo/project2", // Placeholder link
       githubLink: "https://github.com/neomokoana/NLP-Chatbot", // Placeholder link
-      image: "src/image 2.2.jpg"
+      image: "/image 2.2.jpg"
     },
     {
       id: 3,
@@ -165,7 +165,7 @@ const ProjectsSection = () => {
       description: "Transportation Bias Audit: Towards Equitable Commutes in South Africa Project Overview This project conducts a comprehensive bias audit on a simulated AI-powered transportation route optimization system. The core aim is to identify and mitigate potential biases that could unfairly impact commuters from different demographic regions in South Africa (Rural, Township, Urban) on their journeys to the Central Business District (CBD) using various transport modes (taxis, buses, Uber).",
       technologies: ["Python", "Jupyter Notebook", "Scikit-learn","Seaborn", "Matplotlib"],
       githubLink: "https://github.com/neomokoana/TransportBiasAudit", // Placeholder link
-      image: "src/image 3.jpg"
+      image: "/image 3.jpg"
     }
   ];
  
