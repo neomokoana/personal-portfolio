@@ -161,7 +161,7 @@ const ProjectsSection = () => {
     },
     {
       id: 3,
-      title: "Computer Vision for Object Detection",
+      title: "Transportation Bias Audit",
       description: "Transportation Bias Audit: Towards Equitable Commutes in South Africa Project Overview This project conducts a comprehensive bias audit on a simulated AI-powered transportation route optimization system. The core aim is to identify and mitigate potential biases that could unfairly impact commuters from different demographic regions in South Africa (Rural, Township, Urban) on their journeys to the Central Business District (CBD) using various transport modes (taxis, buses, Uber).",
       technologies: ["Python", "Jupyter Notebook", "Scikit-learn","Seaborn", "Matplotlib"],
       githubLink: "https://github.com/neomokoana/TransportBiasAudit", // Placeholder link
